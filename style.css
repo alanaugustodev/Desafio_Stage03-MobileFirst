@@ -84,6 +84,13 @@ main img{
   width: 100%;
 }
 
+main > div:last-child{
+  display: none;
+}
+main > div:nth-last-child(5){
+  display: none;
+}
+
 .card{
   position: relative;
 
@@ -122,6 +129,10 @@ main img{
 
   
   animation: topdown 1700ms;
+}
+
+footer{
+  display: none;
 }
 
 @keyframes giro {
