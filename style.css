@@ -8,8 +8,9 @@
   font-size: 62.5%;
 
   /*Font-family*/
-  --ff-text: 'Palanquin', sans-serif;
+  --ff-text: 'Roboto', sans-serif;
   --ff-heading: 'Staatliches', cursive;
+  --ff-footer: 'Open Sans', sans-serif;
 
   /*Font-color*/
   --fc-heanding-primary: hsl(0, 0%, 100%);
@@ -19,7 +20,7 @@
   /*Font-Size*/
   --fs-heanding-primary: 4.0rem ;
   --fs-heanding-secondary: 2.0rem;
-  --fs-text: 1.45rem ;
+  --fs-text: 1.4rem ;
 
   /*Background-color*/
   --bg-primary: hsl(233,100%,97%);
